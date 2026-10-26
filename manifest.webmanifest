@@ -1,0 +1,25 @@
+{
+  "name": "DressIn",
+  "short_name": "DressIn",
+  "description": "Des idées de tenues avec les vêtements que tu as déjà, selon ta journée, ton humeur et tes envies.",
+  "lang": "fr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#06070F",
+  "theme_color": "#06070F",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
